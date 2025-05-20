@@ -1,0 +1,86 @@
+{
+  "proceres": [
+    {
+      "id": 1,
+      "nombre": "Simón Bolívar",
+      "nombre_completo": "Simón José Antonio de la Santísima Trinidad Bolívar Ponte y Palacios Blanco",
+      "apodo": "El Libertador",
+      "fecha_nacimiento": "1783-07-24",
+      "fecha_fallecimiento": "1830-12-17",
+      "lugar_nacimiento": "Caracas, Capitanía General de Venezuela",
+      "lugar_fallecimiento": "Santa Marta, Gran Colombia",
+      "cargos": [
+        "Presidente de la Gran Colombia",
+        "Presidente de Bolivia",
+        "Presidente de Perú",
+        "Dictador de Venezuela"
+      ],
+      "batallas_importantes": [
+        "Batalla de Boyacá",
+        "Batalla de Carabobo",
+        "Batalla de Pichincha",
+        "Batalla de Junín",
+        "Batalla de Ayacucho"
+      ],
+      "logros": [
+        "Libertador de Venezuela, Colombia, Ecuador, Perú, Bolivia y Panamá",
+        "Fundador de la Gran Colombia",
+        "Promotor del Congreso de Panamá"
+      ],
+      "frase_celebre": "La libertad del Nuevo Mundo es la esperanza del Universo."
+    },
+    {
+      "id": 2,
+      "nombre": "Francisco de Miranda",
+      "nombre_completo": "Sebastián Francisco de Miranda y Rodríguez Espinoza",
+      "apodo": "El Precursor",
+      "fecha_nacimiento": "1750-03-28",
+      "fecha_fallecimiento": "1816-07-14",
+      "lugar_nacimiento": "Caracas, Capitanía General de Venezuela",
+      "lugar_fallecimiento": "San Fernando, España",
+      "cargos": [
+        "Dictador Plenipotenciario y Jefe Supremo de Venezuela",
+        "Generalísimo de los Ejércitos Venezolanos"
+      ],
+      "batallas_importantes": [
+        "Batalla de Valmy (Francia)",
+        "Batalla de Pensacola (EE.UU.)",
+        "Sitio de Melilla (África)"
+      ],
+      "logros": [
+        "Precursor de la independencia americana",
+        "Participó en la Revolución Francesa y Estadounidense",
+        "Primer comandante en jefe de los ejércitos venezolanos",
+        "Firmante del Acta de Independencia de Venezuela"
+      ],
+      "frase_celebre": "La libertad no se mendiga, se conquista."
+    },
+    {
+      "id": 3,
+      "nombre": "José Antonio Páez",
+      "nombre_completo": "José Antonio Páez Herrera",
+      "apodo": "El Centauro de los Llanos",
+      "fecha_nacimiento": "1790-06-13",
+      "fecha_fallecimiento": "1873-05-06",
+      "lugar_nacimiento": "Curpa, Capitanía General de Venezuela",
+      "lugar_fallecimiento": "Nueva York, Estados Unidos",
+      "cargos": [
+        "Presidente de Venezuela (1830-1835, 1839-1843, 1861-1863)",
+        "Comandante General del Ejército de Venezuela"
+      ],
+      "batallas_importantes": [
+        "Batalla de Las Queseras del Medio",
+        "Batalla de Carabobo",
+        "Batalla de Mucuritas",
+        "Batalla de El Yagual"
+      ],
+      "logros": [
+        "Líder militar clave en la independencia de Venezuela",
+        "Primer presidente constitucional de Venezuela",
+        "Jefe del movimiento separatista La Cosiata",
+        "Unificador de Venezuela en sus primeros años como nación"
+      ],
+      "frase_celebre": "¡Vuelvan caras! (Orden en la Batalla de Las Queseras del Medio)"
+    }
+  ]
+}
